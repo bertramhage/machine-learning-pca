@@ -1,6 +1,13 @@
+# Machine learning PCA and data visualization
+This project focuses on Principal Component Analysis (PCA) and data visualization of a classifier for dry beans.
+
 Author: Bertram Hage, Markus Kaad, Simen Fjeld
 Date: October 3, 2023
-Description: This project focuses on Principal Component Analysis (PCA) and data visualization of a classifier for dry beans.
+
+## Table of Contents
+- [Overview](#overview)
+- [Data](#data)
+- [Figures](#figures)
 
 ## Overview
 This project contains files that load data in xls format and performs a principal component analysis (PCA) as well as visualize the data in various ways,
