@@ -24,9 +24,10 @@ The figures produced by the code can be found in the subfolder "Figures" in png-
 ## Report
 In the report the theoretical background behind the data and data processing is described in detail. 
 The report contains the sections:
-1 Introduction
-2 Description of the data set
-3 Data visualization
-4 Principal Component Analysis (PCA)
-5 Discussion
-6 Problems
+
+1. Introduction
+2. Description of the data set
+3. Data visualization
+4. Principal Component Analysis (PCA)
+5. Discussion
+6. Problems
